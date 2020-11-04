@@ -1,0 +1,9 @@
+<?php
+
+$number  = 11;
+$letter = S;
+
+if ($number > 9)
+{
+    echo "Ei ollutkaan";
+}
