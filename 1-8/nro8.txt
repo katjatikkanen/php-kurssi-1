@@ -1,0 +1,7 @@
+<?php
+
+$number  = 300;
+
+if ($number > 100) {
+    echo "Found";
+}
