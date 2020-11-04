@@ -1,0 +1,10 @@
+<?php
+
+$letter = 'K';
+
+if ($letter == 'K') {
+    echo "On se K";
+} elseif ($letterman == 'M') {
+    echo "On se M";
+
+}
