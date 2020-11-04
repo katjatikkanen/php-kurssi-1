@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<?php
+$alphabets = array (
+  array("A B C D E F G H I J K"),
+  array(" K J I H G F E D C B A")
+  );
+  
+  echo $alphabets[0][0].".<br>";
+  echo $alphabets[1][0];
+ 
+?>  
+
+</body>
+</html>
+
